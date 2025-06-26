@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Παναγιώτης 👋
 
-<!--
-**diamondpixel/diamondpixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22-year-old passionate Computer Science student at Athens University of Economics and Business (AUEB), Greece.  
+I love coding, learning, and creating projects that push my skills forward.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies & Interests
+
+- Programming Languages: Java | C++ | Python  
+- Areas of Interest: Networks, Systems, Game Development  
+- Projects I’ve worked on:  
+  - **Rework of sgg** — improving graphics/game libs  
+  - **FakeMinecraft** — Minecraft-inspired project  
+  - **PictoByte** — Steganography project
+  - **HCR (Hardcore Revival plugin)** — minecraft plugin
+
+---
+
+## 🎯 Goals
+
+Currently studying hard and aiming high — someday I want to build a successful company where dressing isn't formal (and maybe get rich along the way 😄).
+
+---
+
+## ⚡ Hobbies
+
+When I'm not coding, you’ll find me:  
+- Hitting the gym  
+- Swimming  
+- Riding motorcycles  
+- Gaming
+---
+
+## 📫 Connect with Me
+
+Feel free to reach out:  
+[Email](stiliano446@gmail.com)
+
+---
+
+*“Code hard, ride harder.”*
