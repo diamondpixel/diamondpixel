@@ -1,4 +1,4 @@
-# Hi, I'm Παναγιώτης 👋
+# Hi, I'm Peter 👋
 
 I'm a 22-year-old passionate Computer Science student at Athens University of Economics and Business (AUEB), Greece.  
 I love coding, learning, and creating projects that push my skills forward.
