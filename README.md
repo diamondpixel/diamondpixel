@@ -35,7 +35,7 @@ When I'm not coding, you’ll find me:
 ## 📫 Connect with Me
 
 Feel free to reach out:  
-[Email](mailto:stiliano446@gmail.com)
+[Email](stiliano446@gmail.com)
 
 ---
 
