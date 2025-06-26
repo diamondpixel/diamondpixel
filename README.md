@@ -26,9 +26,6 @@ Currently studying hard and aiming high — someday I want to build a successful
 ## ⚡ Hobbies
 
 When I'm not coding, you’ll find me:  
-- Hitting the gym  
-- Swimming  
-- Riding motorcycles  
 - Gaming
 ---
 
